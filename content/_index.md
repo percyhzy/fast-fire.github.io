@@ -3,20 +3,20 @@
 title:
 date: 2022-10-24
 type: landing
+view: compact
 
 sections:
-  - block: hero
+  - block:
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
+      title:
+      text: 
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-  
+       Welcome to the **Center of Swarm Navigation(CSN)** at **Huzhou Institute of Zhejiang University**. We are also the **Field Intelligent Robotics Engineering (FIRE)** group of the **Field Autonomous System and Computing Lab (FAST Lab)**. Our mission is to create fully intelligent robot teams that are capable of operating in complex and diverse environments to tackle real-world challenges. We are fascinated by novel robotic concepts and excited about pushing the boundaries of robotics' potential to demonstrate remarkable capabilities. More specifically, our research interests cover multi-robot cooperation, novel robot platforms, and autonomous navigation. We also have a spin-off company dedicated to accelerating the translation of our research achievements into the commercial market, solving real-world tasks, and completing the R&D cycle.
+      design:
+        view: card
+        columns: '1'
+
+
   - block: collection
     content:
       title: Latest News
@@ -34,8 +34,8 @@ sections:
       page_type: post
     design:
       view: card
-      columns: '1'
-  
+      columns: '2'
+
   - block: markdown
     content:
       title:
@@ -56,18 +56,6 @@ sections:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
 
-  - block: collection
-    content:
-      title: Latest Preprints
-      text: ""
-      count: 5
-      filters:
-        folders:
-          - publication
-        publication_type: 'article'
-    design:
-      view: citation
-      columns: '1'
 
   - block: markdown
     content:

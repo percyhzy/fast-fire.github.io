@@ -7,10 +7,11 @@ first_name: Yanjun
 last_name: Cao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Principal Investigator
+
 # Organizations/Affiliations
 organizations:
   - name: Huzhou Institute of Zhejiang University
@@ -24,6 +25,7 @@ interests:
   - Novel Robot Platforms
   - Autonomous Navigation
   - Localization and State Estimation
+
 
 education:
   courses:
