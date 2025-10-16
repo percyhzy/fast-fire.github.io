@@ -55,9 +55,3 @@ highlight_name: false
 user_groups:
   - Alumni
 ---
-
-Hi! I am a research assistant(https://percyhzy.github.io/ZhenyuHou.github.io/) at the FASTLAB laboratory of Zhejiang University’s Huzhou Institute, mentored by Yanjun Cao, Fei Gao, and Chao Xu. I graduated with a Bachelor's degree in Cyber Security from the Civil Aviation University of China in June (2024), mentored by Zhijun Wu.
-
-My past research has primarily focused on developing ground robots perception and motion planning algorithms, and analyzing the traversability of ground robots on uneven terrain. Currently, I am particularly interested in integrating large vision-language models with traditional trajectory optimization to enable autonomous systems to perform complex, real-world tasks with greater efficiency and adaptability.
-
-I am a big fan of field robotics. If you're interested in discussing my work or potential collaborations, feel free to contact me by LInkedin(https://www.linkedin.com/in/zhenyu-hou-489640299).
