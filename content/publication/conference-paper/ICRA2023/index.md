@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2023/5/29'
+date: '2023-05-29'
 doi: '10.1109/ICRA48891.2023.10160911'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023/5/29'
+publishDate: '2023-05-29'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
