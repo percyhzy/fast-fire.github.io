@@ -14,7 +14,7 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: he Chinese University of Hong Kong, Shenzhen
+  - name: The Chinese University of Hong Kong, Shenzhen
     url: 'https://www.cuhk.edu.cn/en'
 
 # Short bio (displayed in user profile at end of posts)
