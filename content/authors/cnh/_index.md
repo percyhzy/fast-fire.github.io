@@ -30,7 +30,7 @@ education:
     - course: MEng in Artificial Intelligence
       institution: Zhejiang University
     - course: BSc in Artificial Intelligence
-      institution: Shandong University
+      institution: Zhejiang University
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

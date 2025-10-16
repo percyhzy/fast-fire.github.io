@@ -40,6 +40,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '2076403760wl@gmail.com'
+  - icon: github
+    icon_pack: fab
+    link: https://everforever2076.github.io/Page_WangLi/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -57,3 +60,5 @@ highlight_name: false
 user_groups:
   - Visitors
 ---
+
+Hi, I am Wang Li, I pursued my undergraduate studies in Robotics Engineering at Harbin Institute of Technology from 2020 to 2024. After graduation, I worked as an AI Algorithm Engineer in Shanghai. Currently, I am a Research Assistant at the FAST-FIRE Laboratory. In the near future, I will continue my academic journey by pursuing both my Master's and Ph.D. degrees at Waseda University.
