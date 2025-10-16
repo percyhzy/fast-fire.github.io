@@ -12,11 +12,11 @@ authors:
 author_notes:
 - "Equal contribution"
 
-date: ""
+date: "2025-09-12"
 doi: "10.1109/LRA.2025.3597510"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ""
+publishDate: "2025-09-12"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
