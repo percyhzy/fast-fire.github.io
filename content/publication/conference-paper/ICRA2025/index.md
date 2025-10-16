@@ -29,8 +29,8 @@ publishDate: '19-23 May 2025'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In * 2025 IEEE International Conference on Robotics and Automation (ICRA)*
-publication_short: In *ICRA 2025*
+publication:  2025 IEEE International Conference on Robotics and Automation (ICRA 2025)
+publication_short: 
 
 abstract: With the increasing integration of robots into human life, their role in architectural spaces where people spend most of their time has become more prominent. While motion capabilities and accurate localization for automated robots have rapidly developed, the challenge remains to generate efficient, smooth, comprehensive, and high-quality trajectories in these areas. In this paper, we propose a novel efficient planner for ground robots to autonomously navigate in large complex multi-layered architectural spaces. Considering that traversable regions typically include ground, slopes, and stairs, which are planar or nearly planar structures, we simplify the problem to navigation within and between complex intersecting planes. We first extract traversable planes from 3D point clouds through segmenting, merging, classifying, and connecting to build a plane-graph, which is lightweight but fully represents the traversable regions. We then build a trajectory optimization based on motion state trajectory and fully consider special constraints when crossing multi-layer planes to maximize the robot's maneuverability. We conduct experiments in simulated environments and test on a CubeTrack robot in real-world scenarios, validating the method's effectiveness and practicality.
 # Summary. An optional shortened abstract.

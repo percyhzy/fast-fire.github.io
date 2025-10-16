@@ -8,7 +8,6 @@ image:
 tags: [MSR]
 
 ---
-
 Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
 
 <!--more-->

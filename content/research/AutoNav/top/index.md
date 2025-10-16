@@ -1,6 +1,6 @@
 ---
 title: TOP:Trajectory Optimization via Parallel Optimization towards Constant Time Complexity 
-subtitle: 
+subtitle:  
 date: 2025-10-15
 image:
   focal_point: 'top'

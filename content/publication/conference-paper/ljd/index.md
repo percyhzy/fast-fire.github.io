@@ -32,7 +32,7 @@ publishDate: '2024-10-14T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+publication: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)
 publication_short: 
 
 abstract: Tracked robots with reconfigurable mechanisms exhibit great maneuverability due to their adaptability to complex ground conditions. Reconfigurable tracked robots with geometry-changing tracks show further obstacle-crossing capabilities with compact dimensions. However, existing systems face deployment limitations due to either complex transmission mechanisms or unsustainable designs when maintaining the tension in the tracks. To address these challenges, we introduce a novel design of a reconfigurable tracked robot with geometrychanging tracks, which achieves strong terrain traversability with good mechanical properties. We achieve the elliptical trajectory of key planetary wheels through a novel Quadslider Elliptical Trammel Mechanism (Qs-ETM), allowing the tracks to maintain fixed tension while changing their geometry. Furthermore, the combination of direct drive motors significantly enhances its mechanical properties and agility. A detailed analysis of the kinematic and dynamic characteristics has been conducted and proved with a series of simulations. We built a fully functional prototype of the design and tested it in realworld experiments to validate its advantages. The result shows that our design can reduce the torque required by up to 68.3% and the shear stress of the flipper by up to 67.1%.

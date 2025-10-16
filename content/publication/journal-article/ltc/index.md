@@ -23,7 +23,7 @@ publishDate: "2025-08-11T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Robotics and Automation Letters, 10*(10)"
+publication: "IEEE Robotics and Automation Letters (RAL)"
 publication_short: ""
 
 abstract: Terrestrial-aerial bimodal vehicles, which integrate the high mobility of aerial robots with the long endurance of ground robots, offer significant potential for autonomous exploration. Given the inherent energy and time constraints in practical exploration tasks, we present a hierarchical framework for the bimodal vehicle to utilize its flexible locomotion modalities for exploration. Beginning with extracting environmental information to identify informative regions, we generate a set of potential bimodal viewpoints. To adaptively manage energy and time constraints, we introduce an extended Monte Carlo Tree Search approach that strategically optimizes both modality selection and viewpoint sequencing. Combined with an improved bimodal vehicle motion planner, we present a complete bimodal energy- and time-aware exploration system. Extensive simulations and deployment on a customized real-world platform demonstrate the effectiveness of our system.

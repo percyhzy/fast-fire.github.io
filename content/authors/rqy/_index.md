@@ -21,7 +21,7 @@ organizations:
   - name: Zhejiang University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include trajectory optimization.
+bio: My research interests include UAV tracking, motion planning and Model Predictive Control (MPC)
 
 interests:
   - Robotics

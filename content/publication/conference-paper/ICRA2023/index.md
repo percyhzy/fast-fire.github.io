@@ -27,8 +27,8 @@ publishDate: '2023/5/29'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In * 2023 IEEE International Conference on Robotics and Automation (ICRA)*
-publication_short: In *ICRA 2023*
+publication: 2023 IEEE International Conference on Robotics and Automation (ICRA 2023)
+publication_short: 
 
 abstract: Service robots have attracted extensive attention due to specially designed functions, such as mobile manipulators or robots with extra structures. For robots that have changing shapes, autonomous navigation in the real world presents new challenges. In this paper, we propose a trajectory optimization method for differential-drive mobile robots with controllable changing shapes in dense 3D environments. We model the whole-body trajectory as a polynomial trajectory that satisfies the nonholonomic dynamics of the base and dynamics of the extra joints. These constraints are converted into soft constraints, and an activation function for dense sampling is applied to avoid nonlinear mutations. In addition, we guarantee the safety of full shape by limiting the system's distance from obstacles. To comprehensively simulate a large extent of height and width changes, we designed a novel Shape-Changing Robot with a Differential Base (SCR-DB). Our global trajectory optimization gives a smooth and collision-free trajectory for SCR-DB at a low computational cost. We present vast simulations and real-world experiments to validate our performance, including coupled whole-body and independent differential-driven vehicle motion planning.
 
