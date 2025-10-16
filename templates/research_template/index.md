@@ -1,18 +1,28 @@
 ---
-title: ColAG
+title: CREPES-Summarized name for the research
 date: 2025-10-06
 
+# Image pixel resolution should be around 2000*1000, 2:1 size.
 image:
   focal_point: 'top'
+
 
 summary: 
 abstract: 
 
-authors: [Zhehan Li 李哲晗, Nanhe Cheng 陈楠禾]
-tags: [MSR]
+# authors are the same name within his file
+authors: [Baozhe Zhang 张宝哲, Xinwei Chen 陈鑫炜]
+
+# tag choices include: AutoNav, MSR, NovelRobot. Only these three will be visiable. 
+tags: [AutoNav]
+
 ---
-A Collaborative Air-Ground Framework for Perception-Limited UGVs’ Navigation
+
+A sentense concludes the topic.
+
 <!--more-->
+
+More details when click the link.
 
 Perception is necessary for autonomous navigation
 in an unknown area crowded with obstacles. It’s challenging
@@ -35,16 +45,3 @@ Time Windows to optimize the UAV’s trajectories and minimize
 time when UGVs have to wait to guarantee safety. We validate
 our system through extensive simulation with up to 7 UGVs
 and real-world experiments with 3 UGVs.
-
-Following this work, we further propose a system
-has only one depth camera with a field of view for environmental perception. We fully explore the cooperation between robots
-by proposing a Sequential Exploration and Aiding Localization
-(SEAL) planning strategy for the UAV and a Collision-Adaptive
-Trajectory (CAT) optimization for UGVs. The UAV assists UGVs’
-localization with relative pose estimation and own global localiza-
-tion, meanwhile, it focuses on exploration to provide UGVs with
-abundantenvironmentalinformation.TheUGVteamcannavigate
-safely and autonomously in obstacle-rich environments and even
-maintain formations with only the wheel odometer and UAV’s
-assistance using CAT optimization. Our method is validated both
-in simulations and real-world experiments indoors and outdoors.

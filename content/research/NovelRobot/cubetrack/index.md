@@ -1,16 +1,41 @@
 ---
 title: CubeTrack
 date: 2025-10-06
-author: Alice Wu 吳恩達
+
 image:
   focal_point: 'top'
+
+authors: [Jiadong Lu 卢家栋, Zhihao Tian 田智浩]
+
 
 tags: [NovelRobot]
 
 ---
 
-Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
+Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks
 
 <!--more-->
 
-We will demonstrate "Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC" at the IROS EXPO 2025, to be held during the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) in Hangzhou, China, from October 21–23, 2025 at the Hangzhou International Expo Center. The EXPO will serve as a dynamic platform for showcasing live robotics demonstrations to an international audience of researchers, industry experts, and practitioners. 
+Tracked robots with reconfigurable mechanisms
+exhibit great maneuverability due to their adaptability to
+complex ground conditions. Reconfigurable tracked robots
+with geometry-changing tracks show further obstacle-crossing
+capabilities with compact dimensions. However, existing systems
+face deployment limitations due to either complex transmission
+mechanisms or unsustainable designs when maintaining the
+tension in the tracks. To address these challenges, we introduce
+a novel design of a reconfigurable tracked robot with geometry-
+changing tracks, which achieves strong terrain traversability
+with good mechanical properties. We achieve the elliptical
+trajectory of key planetary wheels through a novel Quad-
+slider Elliptical Trammel Mechanism (Qs-ETM), allowing the
+tracks to maintain fixed tension while changing their geometry.
+Furthermore, the combination of direct drive motors signifi-
+cantly enhances its mechanical properties and agility. A detailed
+analysis of the kinematic and dynamic characteristics has been
+conducted and proved with a series of simulations. We built a
+fully functional prototype of the design and tested it in real-
+world experiments to validate its advantages. The result shows
+that our design can reduce the torque required by up to 68.3%
+and the shear stress of the flipper by up to 67.1%.
+

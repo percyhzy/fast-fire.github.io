@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'yanjunhi@zju.edu.cn'
+    link: 'mailto:yanjunhi@zju.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=Q44CBbgAAAAJ&hl=en

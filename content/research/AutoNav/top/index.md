@@ -1,15 +1,17 @@
 ---
-title: TOP:Trajectory Optimization via Parallel Optimization towards Constant Time Complexity 
+title: TOP
 subtitle:  
 date: 2025-10-15
 image:
   focal_point: 'top'
 
 tags: [AutoNav]
+authors: [Jiajun Yu 余佳骏, Nanhe Cheng 陈楠禾, Guodong Liu 刘国栋]
+
 
 ---
 
-Congratulations to Jiajun Yu that the RA-L'2025 is accepted.
+Trajectory Optimization via Parallel Optimization towards Constant Time Complexity 
 
 <!--more-->
 

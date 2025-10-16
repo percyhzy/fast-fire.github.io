@@ -4,15 +4,36 @@ date: 2025-10-07
 image:
   focal_point: 'top'
 
-summary: RoFly and CubeTrack cooperation summary.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 
+abstract: 
 
-authors: [admin]
+authors: [Baozhe Zhang 张宝哲, Xinwei Chen 陈鑫炜]
 tags: [MSR]
 ---
 
-Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
+Cooperative Non-inertial Frame Based Model Predictive Control
 
 <!--more-->
 
-We will demonstrate "Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC" at the IROS EXPO 2025, to be held during the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) in Hangzhou, China, from October 21–23, 2025 at the Hangzhou International Expo Center. The EXPO will serve as a dynamic platform for showcasing live robotics demonstrations to an international audience of researchers, industry experts, and practitioners. 
+In this project, we presents a novel solution for UAV control
+in cooperative multi-robot systems, which can be used in various
+scenarios such as leader-following, landing on a moving base, or
+specific relative motion with a target. Unlike classical methods
+that tackle UAV control in the world frame, we directly control
+the UAV in the target coordinate frame, without making motion
+assumptions about the target. In detail, we formulate a non-linear
+modelpredictivecontrollerofaUAV,referredtoastheagent,within
+a non-inertial frame (i.e., the target frame). The system requires
+the relative states (pose and velocity), the angular velocity and the
+accelerations of the target, which can be obtained by relative local-
+ization methods and ubiquitous MEMS IMU sensors, respectively.
+This framework eliminates dependencies that are vital in classical
+solutions, such as accurate state estimation for both the agent and
+target,priorknowledgeofthetargetmotionmodel,andcontinuous
+trajectoryre-planningforsomecomplextasks.Wehaveperformed
+extensive simulations to investigate the control performance with
+varying motion characteristics of the target. Furthermore, we con-
+ductedrealrobotexperiments,employingeithersimulatedrelative
+pose estimation from motion capture systems indoors or directly
+from our previous relative pose estimation devices outdoors, to
+validate the applicability and feasibility of the proposed approach.

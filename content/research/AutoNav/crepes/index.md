@@ -1,16 +1,37 @@
 ---
 title: CREPES
 date: 2025-10-06
-author: Alice Wu 吳恩達
 image:
   focal_point: 'top'
 
 tags: [AutoNav]
+authors: [Zhehan Li 李哲晗, Jiadong Lu 卢家栋]
+
 
 ---
 
-Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
+CREPES outputs accurate, robust, high-frequency 6DOF relative pose.
 
 <!--more-->
 
-We will demonstrate "Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC" at the IROS EXPO 2025, to be held during the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) in Hangzhou, China, from October 21–23, 2025 at the Hangzhou International Expo Center. The EXPO will serve as a dynamic platform for showcasing live robotics demonstrations to an international audience of researchers, industry experts, and practitioners. 
+Mutual localization plays a crucial role in multi-
+robot cooperation. CREPES, a novel system that focuses on
+six degrees of freedom (DOF) relative pose estimation for
+multi-robot systems, is proposed in this paper. CREPES has
+a compact hardware design using active infrared (IR) LEDs,
+an IR fish-eye camera, an ultra-wideband (UWB) module and
+an inertial measurement unit (IMU). By leveraging IR light
+communication, the system solves data association between
+visual detection and UWB ranging. Ranging measurements
+from the UWB and directional information from the camera
+offer relative 3-DOF position estimation. Combining the mutual
+relative position with neighbors and the gravity constraints
+provided by IMUs, we can estimate the 6-DOF relative pose
+from a single frame of sensor measurements. In addition, we
+design an estimator based on the error-state Kalman filter
+(ESKF) to enhance system accuracy and robustness. When
+multiple neighbors are available, a Pose Graph Optimization
+(PGO) algorithm is applied to further improve system accuracy.
+We conduct enormous experiments to demonstrate CREPES’
+accuracy between robot pairs and a team of robots, as well as
+performance under challenging conditions.

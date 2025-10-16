@@ -4,15 +4,31 @@ date: 2025-10-07
 image:
   focal_point: 'top'
 
-summary: RoFly and CubeTrack cooperation summary.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary:
+abstract: 
 
-authors: [admin]
+authors: [Qiuyu Ren 任秋予, Mengke Zhang 张孟轲, Nanhe Cheng 陈楠禾] 
 tags: [MSR]
 ---
 
-Congratulations to Zhehan Li and Jiadong Lu that the IROS EXPO proposal is accepted.
+Cross-Vehicle Transition Framework for Quadrotor Control in Air-Ground Cooperation
 
 <!--more-->
 
-We will demonstrate "Air-Ground Cooperation without Global Information: RoFly and CubeTrack Cooperation with CREPES and CoNi-MPC" at the IROS EXPO 2025, to be held during the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) in Hangzhou, China, from October 21–23, 2025 at the Hangzhou International Expo Center. The EXPO will serve as a dynamic platform for showcasing live robotics demonstrations to an international audience of researchers, industry experts, and practitioners. 
+UAV transitions across UGVs enable diverse air-ground cooperation (AGC)
+applications, such as cross-vehicle landing, delivery, and rescue. However, achieving precise and efficient transitions across multiple moving UGVs without prior
+knowledge of their trajectories remains highly challenging. This paper proposes
+COVER, a cross-vehicle transition framework for quadrotor control in AGC scenarios. In COVER, the UAV is directly controlled in UGVs’ body frames as
+non-inertial frames, thus eliminating all dependencies in the world frame. Each
+transition process is divided into three stages: the initial stage, transition stage,
+and final stage, with pre-set stage transition points and stage-varying system
+states. Then, an optimal reference trajectory is generated at each stage by solving
+a non-linear programming (NLP) problem. The effect of the target UGV’s rotation on the initial relative velocity is eliminated to obtain a dynamically feasible
+and smooth transition reference trajectory. Finally, we design a stage-adaptive
+model predictive control (SAMPC) method, proposing a novel MPC position reference mode to avoid indirect routes at the transition stage. The SAMPC method
+effectively mitigates the flight instability caused by reference frame transition
+and eliminates the effect of reference frame rotation at the transition stage. And
+it can flexibly adapt to accurate requirements at the final stage by switching
+position reference mode and adjusting cost weights. Simulation benchmarks and
+extensive real-world experiments validate that our approach can achieve smooth,
+short-distance, and accurate cross-vehicle operations.
