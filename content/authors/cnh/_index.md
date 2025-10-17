@@ -62,4 +62,4 @@ user_groups:
 
 Nanhe Chen is a master's candidate in control theory and engineering at the FASTLab. He obtained his bachelor's degree with honors in Chu Kochen Honors College and Control Science and Engineering College, Zhejiang University in 2023.
 
-His research interests include motion planning and active perception. For further information, please refer to his [personal website](south-river.github.io). 
+His research interests include motion planning and active perception. For further information, please refer to his [personal website](http://south-river.github.io). 
