@@ -1,7 +1,7 @@
 ---
 title: "Universal Trajectory Optimization Framework for Differential Drive Robot Class"
 authors:
-- Mnegke Zhang
+- Mengke Zhang
 - Nanhe Chen
 - Hu Wang
 - Jianxiong Qiu
