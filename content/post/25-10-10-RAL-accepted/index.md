@@ -5,7 +5,8 @@ date: 2025-10-15
 image:
   focal_point: 'top'
 
-tags: [AutoNav]
+# tags include: PaperAccepted, Graduation, Awards, Others
+tags: [PaperAccepted]
 
 ---
 
