@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mingxuan Zhang
+title: Mingxuan Zhang 张明轩
 
 # Full name (for SEO)
 first_name: Mingxuan

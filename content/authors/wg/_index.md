@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Wan 万舸
+title: Ge Wan 万舸
 
 # Full name (for SEO)
 first_name: Ge
@@ -29,9 +29,12 @@ interests:
 
 education:
   courses:
+    - course: Ph.D student in Electronic and Electrical Engineering
+      institution: Xi'an Jiaotong-Liverpool University
+      year: 2023
     - course: BSc in Robot Engineering
       institution: Zhejiang University
-      year: 2023
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

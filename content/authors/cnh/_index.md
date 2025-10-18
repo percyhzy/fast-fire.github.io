@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Nanhe Cheng 陈楠禾
+title: Nanhe Chen 陈楠禾
 
 # Full Name (for SEO)
 first_name: Nanhe
-last_name: Cheng
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,18 +18,17 @@ organizations:
     url: 'https://www.zju.edu.cn/english/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include motion planning and active perception.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Motion Planning
+  - Active Perception
 
 education:
   courses:
-    - course: MEng in Artificial Intelligence
+    - course: MPhil in Control Science and Engineering
       institution: Zhejiang University
-    - course: BSc in Artificial Intelligence
+    - course: BSc in Robotics Engineering
       institution: Zhejiang University
 
 # Social/Academic Networking
@@ -39,10 +38,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'mailto:nanhe_chen@zju.edu.cn'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=RWXkF7EAAAAJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -50,7 +49,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: '@zju.edu.cn'
+email: 'nanhe_chen@zju.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -63,4 +62,4 @@ user_groups:
 
 Nanhe Chen is a master's candidate in control theory and engineering at the FASTLab. He obtained his bachelor's degree with honors in Chu Kochen Honors College and Control Science and Engineering College, Zhejiang University in 2023.
 
-His research interests include motion planning and active perception.
+His research interests include motion planning and active perception. For further information, please refer to his [personal website](http://south-river.github.io). 
