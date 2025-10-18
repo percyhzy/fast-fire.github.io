@@ -1,17 +1,16 @@
 ---
 title: COVER
+subtitle: Cross-Vehicle Transition Framework for Quadrotor Control in Air-Ground Cooperation
+
 date: 2025-10-07
 image:
   focal_point: 'top'
 
-summary:
-abstract: 
+summary: Cross-Vehicle Transition Framework for Quadrotor Control in Air-Ground Cooperation
 
-authors: [Qiuyu Ren 任秋予, Mengke Zhang 张孟轲, Nanhe Cheng 陈楠禾] 
 tags: [MSR]
 ---
 
-Cross-Vehicle Transition Framework for Quadrotor Control in Air-Ground Cooperation
 
 <!--more-->
 
@@ -32,3 +31,8 @@ it can flexibly adapt to accurate requirements at the final stage by switching
 position reference mode and adjusting cost weights. Simulation benchmarks and
 extensive real-world experiments validate that our approach can achieve smooth,
 short-distance, and accurate cross-vehicle operations.
+
+
+**Related Publications:**
+- [COVER: cross-vehicle transition framework for quadrotor control in air-ground cooperation
+](https://fast-fire.github.io/publication/journal-article/rqy-cover/)

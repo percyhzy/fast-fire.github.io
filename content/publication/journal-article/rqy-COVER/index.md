@@ -10,7 +10,7 @@ authors:
 - Fei Gao
 - Yanjun Cao
 author_notes:
-- "Equal contribution"
+# - "Equal contribution"
 
 date: "2025-09-12"
 doi: "10.1109/LRA.2025.3597510"

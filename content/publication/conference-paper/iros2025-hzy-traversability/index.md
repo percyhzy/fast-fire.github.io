@@ -5,18 +5,26 @@ title: 'Real-time Spatial-temporal Traversability Assessment via Feature-based S
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zhenyu Hou†, Senming Tan†, Zhihao Zhang†, Long Xu, Mengke Zhang, Zhaoqi He, Chao Xu, Fei Gao, Yanjun Cao∗
+  - Zhenyu Hou
+  - Senming Tan
+  - Zhihao Zhang
+  - Long Xu
+  - Mengke Zhang
+  - Zhaoqi He
+  - Chao Xu
+  - Fei Gao
+  - Yanjun Cao
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+- "Equal contribution"
+- "Equal contribution"
 
-date: '2023-05-29'
+date: '2025-10-10'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-05-29'
+publishDate: '2025-10-10'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

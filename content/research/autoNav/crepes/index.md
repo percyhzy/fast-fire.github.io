@@ -1,16 +1,16 @@
 ---
 title: CREPES
+subtitle: Cooperative RElative Pose Estimation System
+
 date: 2025-10-06
 image:
   focal_point: 'top'
 
+summary: CREPES provides accurate, robust, high-frequency 6DOF relative pose estimation
 tags: [AutoNav]
-authors: [Zhehan Li 李哲晗, Jiadong Lu 卢家栋]
-
 
 ---
 
-CREPES outputs accurate, robust, high-frequency 6DOF relative pose.
 
 <!--more-->
 
@@ -35,3 +35,6 @@ multiple neighbors are available, a Pose Graph Optimization
 We conduct enormous experiments to demonstrate CREPES’
 accuracy between robot pairs and a team of robots, as well as
 performance under challenging conditions.
+
+**Related Publications:**
+- [CREPES: Cooperative RElative Pose Estimation System](https://fast-fire.github.io/publication/conference-paper/crepes/)

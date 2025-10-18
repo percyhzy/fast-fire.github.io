@@ -1,18 +1,19 @@
 ---
 title: CubeTrack
+subtitle: Reconfigurable Tracked Robot with Geometry-Changing Tracks
+
 date: 2025-10-06
 
 image:
   focal_point: 'top'
 
-authors: [Jiadong Lu 卢家栋, Zhihao Tian 田智浩]
+summary: Reconfigurable Tracked Robot with Geometry-Changing Tracks
 
 
 tags: [NovelRobot]
 
 ---
 
-Novel design of Reconfigurable Tracked Robot with Geometry-Changing Tracks
 
 <!--more-->
 
@@ -38,4 +39,9 @@ fully functional prototype of the design and tested it in real-
 world experiments to validate its advantages. The result shows
 that our design can reduce the torque required by up to 68.3%
 and the shear stress of the flipper by up to 67.1%.
+
+**Related Publications:**
+- [Novel design of reconfigurable tracked robot with geometry-changing tracks
+](https://fast-fire.github.io/publication/conference-paper/ljd/)
+- [Efficient Trajectory Generation Based on Traversable Planes in 3D Complex Architectural Spaces](https://fast-fire.github.io/publication/conference-paper/icra2025-zmk-3dplanner/)
 

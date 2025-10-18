@@ -1,14 +1,15 @@
 ---
 title: TrofyBot
+subtitle: A Transformable Rolling and Flying Robot with High Energy Efficiency
 date: 2025-01-28
 image:
   focal_point: 'top'
 
+summary: A Transformable Rolling and Flying Robot with High Energy Efficiency
+
 tags: [NovelRobot]
-authors: [Mingwei Lai 赖明威]
 
 ---
-A Transformable Rolling and Flying Robot with High Energy Efficiency
 
 <!--more-->
 
@@ -36,3 +37,7 @@ for trajectory tracking. A prototype is built and extensive
 experiments are conducted to verify the design and the proposed
 controller, which achieves high energy efficiency and seamless
 transition between modes.
+
+**Related Publications:**
+- [TrofyBot: A Transformable Rolling and Flying Robot with High Energy Efficiency
+](https://fast-fire.github.io/publication/conference-paper/trofly/)

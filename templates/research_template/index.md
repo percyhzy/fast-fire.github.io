@@ -1,26 +1,18 @@
 ---
 title: CREPES-Summarized name for the research
-date: 2025-10-06
-
+# subtitle shown when the page is clicked.
+subtitle:  subtitle shown when the page is clicked.
+date: 2020-12-02
 # Image pixel resolution should be around 2000*1000, 2:1 size.
 image:
   focal_point: 'top'
-
-
-summary: 
-abstract: 
-
-# authors are the same name within his file
-authors: [Baozhe Zhang 张宝哲, Xinwei Chen 陈鑫炜]
-
+summary: One sentense around 10 words, shown in the collection page.
 # tag choices include: AutoNav, MSR, NovelRobot. Only these three will be visiable. 
 tags: [AutoNav]
 
 ---
 
-A sentense concludes the topic.
-
-<!--more-->
+<!--more details in Markdown-->
 
 More details when click the link.
 
@@ -45,3 +37,9 @@ Time Windows to optimize the UAV’s trajectories and minimize
 time when UGVs have to wait to guarantee safety. We validate
 our system through extensive simulation with up to 7 UGVs
 and real-world experiments with 3 UGVs.
+
+**Related Publications:**
+
+- [ColAG: A collaborative air-ground framework for perception-limited ugvs’ navigation
+  ](https://fast-fire.github.io/publication/conference-paper/colag/)
+- [Cost-Effective Swarm Navigation System via Close Cooperation](https://fast-fire.github.io/publication/journal-article/cost-effective/)

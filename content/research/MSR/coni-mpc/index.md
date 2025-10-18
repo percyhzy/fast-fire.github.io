@@ -1,17 +1,15 @@
 ---
 title: CoNi-MPC/OA
+subtitle: Cooperative Non-inertial Frame Based Model Predictive Control and Obstacle Avoidance
+
 date: 2025-10-07
 image:
   focal_point: 'top'
 
-summary: 
-abstract: 
+summary: Cooperative Non-inertial Frame Based Model Predictive Control and Obstacle Avoidance
 
-authors: [Baozhe Zhang 张宝哲, Xinwei Chen 陈鑫炜]
 tags: [MSR]
 ---
-
-Cooperative Non-inertial Frame Based Model Predictive Control
 
 <!--more-->
 
@@ -37,3 +35,9 @@ ductedrealrobotexperiments,employingeithersimulatedrelative
 pose estimation from motion capture systems indoors or directly
 from our previous relative pose estimation devices outdoors, to
 validate the applicability and feasibility of the proposed approach.
+
+**Related Publications:**
+- [CoNi-MPC: Cooperative Non-inertial Frame Based Model Predictive Control
+](https://fast-fire.github.io/publication/journal-article/zbz_coni/)
+- [Global-State-Free Obstacle Avoidance for Quadrotor Control in Air-Ground Cooperation
+](https://fast-fire.github.io/publication/journal-article/zbz_coni_oa/)

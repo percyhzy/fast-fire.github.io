@@ -1,17 +1,16 @@
 ---
 title: ColAG
+subtitle: Collaborative Air-Ground System to Boost Air-Gound Cooperation
+
 date: 2025-10-06
 
 image:
   focal_point: 'top'
 
-summary: 
-abstract: 
+summary: Collaborative Air-Ground System to Boost Air-Gound Cooperation
 
-authors: [Zhehan Li 李哲晗, Nanhe Cheng 陈楠禾]
 tags: [MSR]
 ---
-A Collaborative Air-Ground Framework for Perception-Limited UGVs’ Navigation
 <!--more-->
 
 Perception is necessary for autonomous navigation
@@ -48,3 +47,7 @@ safely and autonomously in obstacle-rich environments and even
 maintain formations with only the wheel odometer and UAV’s
 assistance using CAT optimization. Our method is validated both
 in simulations and real-world experiments indoors and outdoors.
+
+**Related Publications:**
+- [ColAG: A collaborative air-ground framework for perception-limited ugvs’ navigation](https://fast-fire.github.io/publication/conference-paper/colag/)
+- [Cost-Effective Swarm Navigation System via Close Cooperation](https://fast-fire.github.io/publication/journal-article/cnh-cost-effective/)

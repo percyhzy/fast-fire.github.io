@@ -6,6 +6,14 @@ title: 'TrofyBot: A Transformable Rolling and Flying Robot with High Energy Effi
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingwei Lai 
+  - Yuqian Ye
+  - Hanyu Wu
+  - Chice Xuan
+  - Ruibin Zhang
+  - Qiuyu Ren 
+  - Chao Xu
+  - Fei Gao
+  - Yanjun Cao
 
 # Author notes (optional)
 # author_notes:
