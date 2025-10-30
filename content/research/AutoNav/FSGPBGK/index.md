@@ -1,15 +1,14 @@
 ---
 title: FSGP-BGK
-subtitle: Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process
-
-date: 2025-6-16
+subtitle:  UReal-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process
+date: 2025-10-23
 image:
-  focal_point: 'Smart'
+  focal_point: 'top'
 summary: Real-time Spatial-temporal Traversability Assessment via Feature-based Sparse Gaussian Process. 
-
 tags: [AutoNav]
 
 ---
+
 
 
 <!--more-->
